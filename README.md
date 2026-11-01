@@ -1,5 +1,8 @@
 # FSD Lab Assignment 1: Blog Post Layout
 
+Name: Pratham Singh  
+PRN: 1032211384
+
 A responsive single-page blog built with HTML5, CSS and Bootstrap 5.
 
 - Inline CSS: post title
